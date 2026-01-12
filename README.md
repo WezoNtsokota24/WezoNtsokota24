@@ -1,9 +1,5 @@
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WezoNtsokota24&show_icons=true&theme=tokyonight&hide_border=true" alt="WezoNtsokota24's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WezoNtsokota24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </p>
-</div>
+### ⚡ Recent Activity
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=WezoNtsokota24&theme=tokyonight&hide_border=true)
 
 [![My Skills](https://skillicons.dev/icons?i=py,docker,aws,postgres,react)](https://skillicons.dev)
 
