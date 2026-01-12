@@ -1,46 +1,47 @@
 <div align="center">
-  <h2> Hi there, I'm Wezo! 👋</h2> 
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Software+Developer;Data+Engineer;Data+Analyst;Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Wezo+👋;Software+Engineer+%7C+Data+Analyst;Building+Scalable+Pipelines;Python+%7C+Java+%7C+React+%7C+Cloud" alt="Typing SVG" />
   </a>
-</div>
 
----
+  <br/>
 
-### 🚀 About Me
-I am a versatile technical professional who bridges the gap between **Software Development** and **Data Intelligence**. I don't just write code; I build systems that solve real problems.
+  <h3>🚀 About Me</h3>
+  <p>
+    I am a versatile technical professional bridging the gap between <br/>
+    <b>Software Development</b> and <b>Data Intelligence</b>.
+  </p>
+  
+  <p>
+    🔭 Building <b>scalable software solutions</b> and <b>data pipelines</b>.<br/>
+    📊 Transforming raw data into insights using <b>Python (Pandas, NumPy)</b> and <b>SQL</b>.<br/>
+    ⚙️ Automating data flows with <b>Apache Kafka</b> and <b>Apache Beam</b>.<br/>
+    💻 creating efficient apps with <b>React, Java,</b> and <b>Django</b>.<br/>
+    🌱 Exploring <b>Cloud Architecture (AWS)</b> and <b>System Design</b>.
+  </p>
 
-* 🔭 I’m currently working on building **scalable software solutions** and **data pipelines**.
-* 📊 As a **Data Analyst**, I transform raw data into actionable insights using **Python (Pandas, NumPy)** and **SQL**.
-* ⚙️ As a **Data Engineer**, I design robust infrastructure to automate data flows using **Apache Kafka** and **Apache Beam**.
-* 💻 As a **Software Developer**, I create efficient, user-friendly applications using modern frameworks like **React** and **Django**.
-* 🌱 I’m currently exploring advanced **Cloud Architecture** on **AWS**.
+  <br/>
 
----
-
-### 🛠️ My Tech Stack
-<div align="center">
+  <h3>🛠️ My Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,django,postgres,kafka,aws,docker,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,django,postgres,kafka,aws,docker,git,linux&perline=7&theme=dark" />
   </a>
-</div>
 
----
+  <br/>
+  <br/>
 
-### ⚡ Recent Activity
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WezoNtsokota24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <h3>⚡ Recent Activity</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WezoNtsokota24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
----
+  <br/>
+  <br/>
 
-### 📫 Connect with Me
-<div align="center">
+  <h3>📫 Connect with Me</h3>
   <a href="mailto:wezontsokota02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://linkedin.com/in/wezo-ntsokota">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
+
 </div>
