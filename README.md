@@ -5,6 +5,6 @@
 <div align="center">
   <h2> Hi there, I'm Wezo! 👋</h2> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Engineer;Python+Developer;Building+Scalable+Pipelines;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Software+Developer;Data+Engineer;Data+Analyst;Python+Developer" alt="Typing SVG" />
   </a>
 </div>
