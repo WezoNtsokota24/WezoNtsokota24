@@ -12,19 +12,35 @@
 I am a versatile technical professional who bridges the gap between **Software Development** and **Data Intelligence**. I don't just write code; I build systems that solve real problems.
 
 * 🔭 I’m currently working on building **scalable software solutions** and **data pipelines**.
-* 📊 As a **Data Analyst**, I transform raw data into actionable insights using SQL and Python.
-* ⚙️ As a **Data Engineer**, I design robust infrastructure to automate data flows.
-* 💻 As a **Software Developer**, I create efficient, user-friendly applications using modern frameworks.
-* 🌱 I’m currently exploring advanced **Cloud Architecture** and **System Design**.
+* 📊 As a **Data Analyst**, I transform raw data into actionable insights using **Python (Pandas, NumPy)** and **SQL**.
+* ⚙️ As a **Data Engineer**, I design robust infrastructure to automate data flows using **Apache Kafka** and **Apache Beam**.
+* 💻 As a **Software Developer**, I create efficient, user-friendly applications using modern frameworks like **React** and **Django**.
+* 🌱 I’m currently exploring advanced **Cloud Architecture** on **AWS**.
 
 ---
 
 ### 🛠️ My Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,django,postgres,kafka,aws,docker,git,linux&perline=7" />
+  </a>
+</div>
+
+---
+
+### ⚡ Recent Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WezoNtsokota24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<div align="center">
+  <a href="mailto:wezontsokota02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/wezo-ntsokota">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
