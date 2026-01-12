@@ -1,10 +1,8 @@
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WezoNtsokota24&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="WezoNtsokota24's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WezoNtsokota24&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="WezoNtsokota24's Top Languages" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WezoNtsokota24&show_icons=true&theme=tokyonight&hide_border=true" alt="WezoNtsokota24's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WezoNtsokota24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </p>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,docker,aws,postgres,react)](https://skillicons.dev)
